@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+/config.conf
+.idea/automation.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+./idea/*
